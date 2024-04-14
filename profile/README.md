@@ -11,7 +11,7 @@ Welcome to [RenderPDF.io](https://renderpdf.io). We provide lovely & developer-f
 
 ## Sign Up and Get your Free API Key today!
 
-[Sign up here](https://renderpdf.io/login
+[Sign up here](https://renderpdf.io/login)
 
 ## Contact Us
 
